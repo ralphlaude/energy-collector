@@ -1,4 +1,4 @@
-# Vermietet.de - Energy Collector Service
+# Energy Collector Service
 
 This service provides an REST-API for collecting counter energy for villages.
 The service is implemented using the Lagom framework (https://www.lagomframework.com/documentation/1.3.x/java/ReferenceGuide.html).
