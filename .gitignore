@@ -1,0 +1,19 @@
+## MAC OS files
+.DS_Store
+.history
+.sbtopts
+.travis.yml
+
+
+## IntelliJ files
+.idea
+.bin
+
+
+## SBT Lagom files
+logs
+target
+project/project
+src_managed/
+scala-2.11
+
