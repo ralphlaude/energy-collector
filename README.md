@@ -47,7 +47,7 @@ Running test
 
 Importing the project to IDE
 ----------------------------
-please see https://www.lagomframework.com/documentation/1.3.x/java/ReferenceGuide.html
-for Eclipse please see https://www.lagomframework.com/documentation/1.3.x/java/EclipseSbt.html
-for Intellij please see https://www.lagomframework.com/documentation/1.3.x/java/IntellijSbtJava.html
-for setting up Immutables please see https://www.lagomframework.com/documentation/1.3.x/java/ImmutablesInIDEs.html
+* Please see https://www.lagomframework.com/documentation/1.3.x/java/ReferenceGuide.html
+* For Eclipse please see https://www.lagomframework.com/documentation/1.3.x/java/EclipseSbt.html
+* For Intellij please see https://www.lagomframework.com/documentation/1.3.x/java/IntellijSbtJava.html
+* For setting up Immutables please see https://www.lagomframework.com/documentation/1.3.x/java/ImmutablesInIDEs.html
